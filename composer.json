@@ -1,11 +1,10 @@
 {
   "name": "plumrocket/module-reviews",
-  "version": "0.0.2",
+  "version": "v0.0.4",
   "description": "N/A",
   "type": "magento2-module",
   "require": {
-    "magento/framework": "*",
-    "magento/module-customer": "103.0.*"
+    "ext-curl": "*"
   },
   "license": [
     "Proprietary"
