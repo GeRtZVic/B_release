@@ -34,4 +34,4 @@ jobs:
         with:
           files: ${{ github.event.repository.name }}.zip
         env:
-          GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
+          SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
