@@ -1,6 +1,6 @@
 {
   "name": "plumrocket/module-reviews",
-  "version": "v0.0.5",
+  "version": "v0.0.6",
   "description": "N/A",
   "type": "magento2-module",
   "require": {
